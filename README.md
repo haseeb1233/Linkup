@@ -31,15 +31,15 @@
 * /post/profile/:username for getting particular user.
 
 # Step 1
-You can enter your name , email and password and register in our application. or you can use the google or github auth. if already registered you can use login link.
+You can enter your name , email and password and register in our application. if already registered you can use login link.
 
-![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/c6edef32-dbda-4439-9840-5685770fbcf8)
+![image](https://github.com/haseeb1233/Linkup/blob/main/assets/register.png)
 
 # Step 2
 
-You can put your email address and password to login into your account. if you want to forgot your password you can use the forgot password link. or you can goto create a new account.
+You can put your email address and password to login into your account. if you want to create a new account click on create new account.
 
-![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/0089093d-1af6-4021-9522-d8febda0f4ad)
+![image](https://github.com/haseeb1233/Linkup/blob/main/assets/loginpage.png)
 
 # Step 3
 
