@@ -43,24 +43,18 @@ You can put your email address and password to login into your account. if you w
 
 # Step 3
 
-If you want to change the password you can put your email address and click on send OTP button then when you get otp then put your new password and otp then click on change password button.
+This is where you can connect, share, and engage with your friends and the world. Our Feed Page is designed to bring people together, offering you a seamless platform to post your thoughts, interact with friends, and discover exciting content.
 
 ![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/60e23466-8f9d-4b18-bd0f-41a143a5e660)
 
 # Step 4
 
-On left side you can see the connections that you have created. and by clicking on one of them you can start chatting with that when you get click it is showing most recent 10 massage of you. you can click group icon to start new connection.by clicking on video chat button and it will start a video.
+This is your space to express yourself and connect with others in our community. Here, you have the power to customize and share your information while building connections with fellow users.
 
 ![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/5f9c59b8-b49c-4ea7-9d00-a98a9adcdbe6)
 
-# Step 5
 
-By clicking on any name of user's profile that available on our website you can make new connections.
-![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/e16f38f1-14a3-41e7-be55-2763f8d00a76)
-
-
-
-* Deployed Link : https://65067aad30d1f57cbb8a9d72--sprightly-belekoy-60ab1b.netlify.app/
+* Deployed Link : https://fanciful-pegasus-a09524.netlify.app/
 
 
 
