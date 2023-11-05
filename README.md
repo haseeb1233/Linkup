@@ -45,13 +45,13 @@ You can put your email address and password to login into your account. if you w
 
 This is where you can connect, share, and engage with your friends and the world. Our Feed Page is designed to bring people together, offering you a seamless platform to post your thoughts, interact with friends, and discover exciting content.
 
-![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/60e23466-8f9d-4b18-bd0f-41a143a5e660)
+![image](https://github.com/haseeb1233/Linkup/blob/main/assets/Screenshot%202023-11-05%20150300.png)
 
 # Step 4
 
 This is your space to express yourself and connect with others in our community. Here, you have the power to customize and share your information while building connections with fellow users.
 
-![image](https://github.com/haseeb1233/cruel-scale-8764/assets/112821956/5f9c59b8-b49c-4ea7-9d00-a98a9adcdbe6)
+![image](https://github.com/haseeb1233/Linkup/blob/main/assets/profile.png)
 
 
 * Deployed Link : https://fanciful-pegasus-a09524.netlify.app/
